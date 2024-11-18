@@ -4,3 +4,6 @@ Telegram chat bot using:
 - Firebase database
 - Stripe for payment processes
 - Google Cloud to run the code for 24/7
+
+
+https://t.me/firstgikbot
