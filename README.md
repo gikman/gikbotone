@@ -7,6 +7,7 @@ If you want to use elevenlab version, delete app.py and rename app_elevenlab.py 
 Telegram chat bot using:
 
 - OpenAI API
+- ElevenLabs API
 - Firebase database
 - Stripe for payment processes
 - Google Cloud to run the code for 24/7
